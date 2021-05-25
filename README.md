@@ -1,7 +1,5 @@
 <h1>Laravel REST API with Sanctum Authorization</h1>
 
-## About Laravel
-
 # Public Routes (open for all)
 
 GET   /api/products
